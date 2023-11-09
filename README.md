@@ -3,5 +3,5 @@ Discover our Netflix Home Page Clone Design! 🎬🍿 Crafted using HTML &amp; C
  
  ![Output Snip](./Images/output1.png "This will be the final output")
  ![Output Snip](./Images/output2.png "This will be the final output")
- ![Output Snip](./Images/output%3.png)
+ ![Output Snip](https://github.com/RiyaShankar19/Netflix-clone/blob/ac2e470cb328e08a1fa366592585737623590f50/Images/output%203.png)
  
